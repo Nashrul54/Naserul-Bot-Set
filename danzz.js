@@ -654,12 +654,9 @@ Wita: ${tengah} WITA
 Wit: ${timur} WIT
 
 *INFO CMD*
-Ⓥ = Vip
 Ⓟ = Premium
 Ⓕ = Free
 Ⓛ = Limit
-Ⓖ = For Group
-Ⓞ = For Owner
 
 *MAIN*
 ${symbol2} ${prefix}runtime
@@ -774,8 +771,8 @@ ${symbol2} ${prefix}cekcantik Ⓕ Ⓛ
 ${symbol2} ${prefix}cekkaya Ⓕ Ⓛ
 ${symbol2} ${prefix}cekmiskin Ⓕ Ⓛ
 ${symbol2} ${prefix}pantun Ⓕ Ⓛ
-${symbol2} ${prefix}jadian Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}jodohku Ⓖ Ⓕ Ⓛ
+${symbol2} ${prefix}jadian Ⓕ Ⓛ
+${symbol2} ${prefix}jodohku Ⓕ Ⓛ
 ${symbol2} ${prefix}tictactoe Ⓕ Ⓛ
 ${symbol2} ${prefix}family100 Ⓕ Ⓛ
 ${symbol2} ${prefix}tebak [option] Ⓕ Ⓛ
@@ -785,27 +782,27 @@ ${symbol2} ${prefix}afk [text] Ⓕ Ⓛ
 ${symbol2} ${prefix}slot Ⓕ Ⓛ
 
 *GROUP*
-${symbol2} ${prefix}linkgroup Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}ephemeral [option] Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}setppgc [image] Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}setname [text] Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}setdesc [text] Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}group [option] Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}editinfo [option] Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}add 628xxx Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}kick @user Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}hidetag [text] Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}tagall [text] Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}totag [reply] Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}antilink [on/off] Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}mute [on/off] Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}promote @user Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}demote @user Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}vote [text] Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}devote Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}upvote Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}cekvote Ⓖ Ⓕ Ⓛ
-${symbol2} ${prefix}hapusvote Ⓖ Ⓕ Ⓛ
+${symbol2} ${prefix}linkgroup Ⓕ Ⓛ
+${symbol2} ${prefix}ephemeral [option] Ⓕ Ⓛ
+${symbol2} ${prefix}setppgc [image] Ⓕ Ⓛ
+${symbol2} ${prefix}setname [text] Ⓕ Ⓛ
+${symbol2} ${prefix}setdesc [text] Ⓕ Ⓛ
+${symbol2} ${prefix}group [option] Ⓕ Ⓛ
+${symbol2} ${prefix}editinfo [option] Ⓕ Ⓛ
+${symbol2} ${prefix}add 628xxx Ⓕ Ⓛ
+${symbol2} ${prefix}kick @user Ⓕ Ⓛ
+${symbol2} ${prefix}hidetag [text] Ⓕ Ⓛ
+${symbol2} ${prefix}tagall [text] Ⓕ Ⓛ
+${symbol2} ${prefix}totag [reply] Ⓕ Ⓛ
+${symbol2} ${prefix}antilink [on/off] Ⓕ Ⓛ
+${symbol2} ${prefix}mute [on/off] Ⓕ Ⓛ
+${symbol2} ${prefix}promote @user Ⓕ Ⓛ
+${symbol2} ${prefix}demote @user Ⓕ Ⓛ
+${symbol2} ${prefix}vote [text] Ⓕ Ⓛ
+${symbol2} ${prefix}devote Ⓕ Ⓛ
+${symbol2} ${prefix}upvote Ⓕ Ⓛ
+${symbol2} ${prefix}cekvote Ⓕ Ⓛ
+${symbol2} ${prefix}hapusvote Ⓕ Ⓛ
 
 *CONVERT*
 ${symbol2} ${prefix}sticker [image] Ⓕ Ⓛ
